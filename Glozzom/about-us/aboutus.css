@@ -1,0 +1,26 @@
+body {
+    margin: 0;
+}
+#dabble {
+    background-color: rgb(66, 66, 66);
+}
+#main-footer {
+    background-color: #000;
+    color: #fff;
+}
+.about-banner {
+    background-image: url(images/telephone.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+#img1 {
+    height: 80%;
+    width: 100%;
+    margin-top: -80px;
+}
+@media (max-width:765px) {
+    #img {
+        margin-top: 0px !important;
+    }
+}

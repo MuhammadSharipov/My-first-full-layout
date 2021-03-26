@@ -1,0 +1,16 @@
+body {
+    margin: 0;
+}
+#dabble {
+    background-color: rgb(66, 66, 66);
+}
+#main-footer {
+    background-color: #000;
+    color: #fff;
+}
+.blog-banner {
+    background-image: url(images/telephone.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
